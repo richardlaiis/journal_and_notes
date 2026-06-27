@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-06-27.md",
+                "file": "20260626.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-27"
+              "title": "20260626"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "a7662ed838c32f69",
   "lastOpenFiles": [
-    "20260626.md",
     "2026-06-27.md",
+    "20260626.md",
     "Transformer.md",
     "Untitled.base",
     "2026-06-26.md",
