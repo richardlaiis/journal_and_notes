@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformer.md",
+                "file": "2026-06-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformer"
-            }
-          },
-          {
-            "id": "55dede68feea2248",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "seq2seq_v9.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "seq2seq_v9"
+              "title": "2026-06-27"
             }
           }
         ]
@@ -197,9 +185,12 @@
   },
   "active": "a7662ed838c32f69",
   "lastOpenFiles": [
-    "seq2seq_v9.pdf",
-    "Transformer.md",
     "20260626.md",
+    "2026-06-27.md",
+    "Transformer.md",
+    "Untitled.base",
+    "2026-06-26.md",
+    "seq2seq_v9.pdf",
     "Untitled.canvas",
     "Welcome.md"
   ]
