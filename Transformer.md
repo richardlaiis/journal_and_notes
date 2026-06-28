@@ -1,3 +1,4 @@
+references: (`pdfs/seq2seq_v9.pdf`)
 [[seq2seq_v9.pdf]]
 
 ## P.29
