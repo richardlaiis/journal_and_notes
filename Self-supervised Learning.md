@@ -11,4 +11,24 @@ Yes/No 回答的問題是：兩個句子是不是相接的？
 
 這個方法表現不好的可能原因是太簡單ㄌ XD
 
-- [ ] 目前影片看到 13:18
+SOP 是指說給定兩個本就相接的句子，但是順序不知道，機器需要去預測。
+### P.14
+訓練出 bert 的過程稱作 pre-train，微調去達成各種 downstream tasks 的過程稱作 fine-tuning。
+## P.16
+Q. 為什麼要有人類的分數？
+A: 因為不同 metric 無法直接比較。
+
+## How to use BERT – Case 2 (P.20)
+The parameters in the BERT part are ramdomly initialization. (it's already found in the pre-train)
+
+## Case 3 (P.21)
+NLI (aka textual entailment): https://en.wikipedia.org/wiki/Textual_entailment
+
+entailment: the relationship between two statements when for one to be true, the other must also be true.
+
+## Case 4 - QA (P.23~P.25)
++ s: 開始的 index
++ e: 結束的 index
+
+橙色的向量是開始位置的 query，藍色向量則是結束位置的 query。(這裡黃色向量可以被當成是 key(?))，因為他們都是 random initialized 的，所以需要經過訓練。
+
