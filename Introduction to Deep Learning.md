@@ -14,5 +14,6 @@ references (`pdfs/regression (v16).pdf`):  [[regression (v16).pdf]]
 
 We can doooo this for many layers, just repeat the process... Tadaaaa! This is a **neural network**.
 ![[Pasted image 20260703112608.png]]
-## To learn
+## Related materials
 - [ ] Back propagation
+- [ ] [[General Guidance of ML]]

@@ -22,29 +22,29 @@
             }
           },
           {
-            "id": "ab575897b6debda7",
+            "id": "bd12e35ba77296dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/regression (v16).pdf"
+                "file": "pdfs/overfit-v6.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "regression (v16)"
+              "title": "overfit-v6"
             }
           },
           {
-            "id": "70e98a5ab1d06402",
+            "id": "1c73d2691a41e66c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Deep Learning.md",
+                "file": "General Guidance of ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Deep Learning"
+              "title": "General Guidance of ML"
             }
           },
           {
@@ -57,20 +57,6 @@
               },
               "icon": "lucide-file-text",
               "title": "bert_v8"
-            }
-          },
-          {
-            "id": "6c9377579ccecdbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning (RL).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reinforcement Learning (RL)"
             }
           }
         ],
@@ -247,16 +233,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "70e98a5ab1d06402",
+  "active": "1c73d2691a41e66c",
   "lastOpenFiles": [
+    "pdfs/overfit-v6.pdf",
+    "2026-07-02.md",
+    "General Guidance of ML.md",
+    "Introduction to Deep Learning.md",
+    "pdfs/regression (v16).pdf",
+    "Pasted image 20260703111637.png",
     "Pasted image 20260703112608.png",
     "Pasted image 20260703112134.png",
     "Pasted image 20260703111746.png",
-    "pdfs/regression (v16).pdf",
     "Reinforcement Learning (RL).md",
-    "Introduction to Deep Learning.md",
-    "Pasted image 20260703111637.png",
-    "2026-07-02.md",
     "pdfs/bert_v8.pdf",
     "pdfs/drl_v5.pdf",
     "Self-supervised Learning.md",
