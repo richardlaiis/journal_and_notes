@@ -22,31 +22,55 @@
             }
           },
           {
-            "id": "acf484cd14ed2773",
+            "id": "ab575897b6debda7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Self-supervised Learning.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/regression (v16).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Self-supervised Learning"
+              "icon": "lucide-file-text",
+              "title": "regression (v16)"
             }
           },
           {
-            "id": "3201100b3029841b",
+            "id": "70e98a5ab1d06402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07-02.md",
+                "file": "Introduction to Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-02"
+              "title": "Introduction to Deep Learning"
+            }
+          },
+          {
+            "id": "acf484cd14ed2773",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/bert_v8.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bert_v8"
+            }
+          },
+          {
+            "id": "6c9377579ccecdbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning (RL).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinforcement Learning (RL)"
             }
           }
         ],
@@ -208,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,17 +247,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "3201100b3029841b",
+  "active": "70e98a5ab1d06402",
   "lastOpenFiles": [
-    "pdfs/bert_v8.pdf",
-    "Self-supervised Learning.md",
+    "Pasted image 20260703112608.png",
+    "Pasted image 20260703112134.png",
+    "Pasted image 20260703111746.png",
+    "pdfs/regression (v16).pdf",
+    "Reinforcement Learning (RL).md",
+    "Introduction to Deep Learning.md",
+    "Pasted image 20260703111637.png",
     "2026-07-02.md",
+    "pdfs/bert_v8.pdf",
+    "pdfs/drl_v5.pdf",
+    "Self-supervised Learning.md",
+    "Auto-encoder 自編碼器.md",
     "2026-07-01.md",
     "2026-06-28.md",
     "2026-06-29.md",
     "2026-06-30.md",
     "pdfs/auto_v8.pdf",
-    "Auto-encoder 自編碼器.md",
     "2026-06-27.md",
     "20260626.md",
     "Transformer.md",

@@ -32,3 +32,4 @@ entailment: the relationship between two statements when for one to be true, the
 
 橙色的向量是開始位置的 query，藍色向量則是結束位置的 query。(這裡黃色向量可以被當成是 key(?))，因為他們都是 random initialized 的，所以需要經過訓練。
 
+這裡的 bert 參數則是在 pre-train 時候就得到ㄌ
