@@ -2,6 +2,7 @@
 
 ---
 
+The concepts here can be linked to the note [[General Guidance of ML]]
 ## Local minima and saddle point
 https://youtu.be/QW6uINn7uGk?si=yekcwHQ6KuBTfF1g
 + 到 Saddle point 或是 local minima 時 gradient 都是 0，但可以去看 hessian matrix 的性質，如果是 positive definite 則為 local minima; 若為 negative definite 則為 local maxima; 否則就是 saddle point.

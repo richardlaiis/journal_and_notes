@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TipsForNeuralNetworks/Small gradient.md",
+                "file": "Introduction to Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Small gradient"
+              "title": "Introduction to Deep Learning"
             }
           },
           {
@@ -249,17 +249,18 @@
   },
   "active": "1c73d2691a41e66c",
   "lastOpenFiles": [
+    "Self-supervised Learning.md",
+    "General Guidance of ML.md",
+    "TipsForNeuralNetworks/Small gradient.md",
     "2026-07-05.md",
     "TipsForNeuralNetworks/Classification (short ver.).md",
     "TipsForNeuralNetworks/Batch Normalization.md",
-    "TipsForNeuralNetworks/Small gradient.md",
     "2026-07-03.md",
     "Transformer.md",
     "pdfs/bert_v8.pdf",
     "pdfs/classification_v2.pdf",
     "TipsForNeuralNetworks/Adaptive Learning Rate.md",
     "TipsForNeuralNetworks",
-    "General Guidance of ML.md",
     "pdfs/overfit-v6.pdf",
     "README.md",
     "bad_ntu.png",
@@ -272,7 +273,6 @@
     "Pasted image 20260703111746.png",
     "Reinforcement Learning (RL).md",
     "pdfs/drl_v5.pdf",
-    "Self-supervised Learning.md",
     "Auto-encoder 自編碼器.md",
     "2026-07-01.md",
     "2026-06-28.md",
