@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07-05.md",
+                "file": "TipsForNeuralNetworks/Small gradient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-05"
+              "title": "Small gradient"
             }
           },
           {
@@ -249,8 +249,8 @@
   },
   "active": "1c73d2691a41e66c",
   "lastOpenFiles": [
-    "TipsForNeuralNetworks/Classification (short ver.).md",
     "2026-07-05.md",
+    "TipsForNeuralNetworks/Classification (short ver.).md",
     "TipsForNeuralNetworks/Batch Normalization.md",
     "TipsForNeuralNetworks/Small gradient.md",
     "2026-07-03.md",
