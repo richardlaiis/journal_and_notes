@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07-03.md",
+                "file": "2026-07-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-03"
+              "title": "2026-07-05"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Guidance of ML.md",
+                "file": "Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Guidance of ML"
+              "title": "Transformer"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,13 +247,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "b78dfe07f8c61228",
+  "active": "1c73d2691a41e66c",
   "lastOpenFiles": [
-    "pdfs/overfit-v6.pdf",
+    "TipsForNeuralNetworks/Classification (short ver.).md",
+    "2026-07-05.md",
+    "TipsForNeuralNetworks/Batch Normalization.md",
+    "TipsForNeuralNetworks/Small gradient.md",
+    "2026-07-03.md",
+    "Transformer.md",
+    "pdfs/bert_v8.pdf",
+    "pdfs/classification_v2.pdf",
+    "TipsForNeuralNetworks/Adaptive Learning Rate.md",
+    "TipsForNeuralNetworks",
     "General Guidance of ML.md",
+    "pdfs/overfit-v6.pdf",
     "README.md",
     "bad_ntu.png",
-    "2026-07-03.md",
     "2026-07-02.md",
     "Introduction to Deep Learning.md",
     "pdfs/regression (v16).pdf",
@@ -262,7 +271,6 @@
     "Pasted image 20260703112134.png",
     "Pasted image 20260703111746.png",
     "Reinforcement Learning (RL).md",
-    "pdfs/bert_v8.pdf",
     "pdfs/drl_v5.pdf",
     "Self-supervised Learning.md",
     "Auto-encoder 自編碼器.md",
@@ -273,7 +281,6 @@
     "pdfs/auto_v8.pdf",
     "2026-06-27.md",
     "20260626.md",
-    "Transformer.md",
     "pdfs",
     "pdfs/seq2seq_v9.pdf",
     "Untitled.base",
