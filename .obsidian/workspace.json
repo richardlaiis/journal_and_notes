@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "TipsForNeuralNetworks/Classification (short ver.).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Classification (short ver.)"
             }
           },
           {
@@ -210,12 +210,13 @@
   },
   "active": "b78dfe07f8c61228",
   "lastOpenFiles": [
-    "Pasted image 20260703112608.png",
+    "Introduction to Deep Learning.md",
+    "TipsForNeuralNetworks/Classification (short ver.).md",
     "README.md",
+    "Pasted image 20260703112608.png",
     "Transformer.md",
     "Fundamentals/Logistic Regression.md",
     "Fundamentals/Classification.md",
-    "TipsForNeuralNetworks/Classification (short ver.).md",
     "pdfs/classification_v2.pdf",
     "Fundamentals",
     "pdfs/bert_v8.pdf",
@@ -226,7 +227,6 @@
     "pdfs/overfit-v6.pdf",
     "TipsForNeuralNetworks/Batch Normalization.md",
     "pdfs/small-gradient-v7.pdf",
-    "Introduction to Deep Learning.md",
     "Self-supervised Learning.md",
     "General Guidance of ML.md",
     "TipsForNeuralNetworks/Small gradient.md",
