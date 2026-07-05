@@ -12,3 +12,13 @@ https://youtu.be/QW6uINn7uGk?si=yekcwHQ6KuBTfF1g
 
 ## Batch and momentum
 https://youtu.be/zzbr1h9sF54?si=cPMkQau9_yCsMOWx
+### Some terms
++ shuffle: 把資料隨機分配到各個 batch，所以每一個 epoch 資料會分配到哪個 batch 是未知的
++ mini batch: =batch
+### key takeaway
++ Smaller batch size results in lower cost
+	+ Larger batch training is more efficient if it's not too large (because with parallel computing, every update costs similar time.)
+	+ Have higher probability in flat minima (aka. good minima, it's more flexible in test data)
++ Momentum makes each update consider previous gradients, and can avoid stucking in critical points (points with gradient=0). (The concept is like the inertia in physical world.)
+	+ **Movement: movement of last step minus gradient at present**
+
