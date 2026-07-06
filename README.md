@@ -4,3 +4,5 @@
 Debt of learning
 - [ ] [[Logistic Regression]]
 - [ ] [[Classification]]
+- [ ] Watch http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).ecm.mp4/index.html
+- [ ] Take notes on http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).pdf

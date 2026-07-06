@@ -13,26 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TipsForNeuralNetworks/Classification (short ver.).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification (short ver.)"
+              "title": "README"
             }
           },
           {
-            "id": "1ec985948b940801",
+            "id": "604166438b2ae283",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/classification_v2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "classification_v2"
+            }
+          },
+          {
+            "id": "7743d88406977ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Logistic Regression.md",
+                "file": "Introduction to Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "title": "Introduction to Deep Learning"
+            }
+          },
+          {
+            "id": "38a59913594d8926",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/regression (v16).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "regression (v16)"
             }
           }
         ]
@@ -210,14 +234,15 @@
   },
   "active": "b78dfe07f8c61228",
   "lastOpenFiles": [
-    "Introduction to Deep Learning.md",
     "TipsForNeuralNetworks/Classification (short ver.).md",
+    "Introduction to Deep Learning.md",
+    "pdfs/classification_v2.pdf",
+    "pdfs/regression (v16).pdf",
     "README.md",
     "Pasted image 20260703112608.png",
     "Transformer.md",
     "Fundamentals/Logistic Regression.md",
     "Fundamentals/Classification.md",
-    "pdfs/classification_v2.pdf",
     "Fundamentals",
     "pdfs/bert_v8.pdf",
     "pdfs/normalization_v4.pdf",
@@ -234,7 +259,6 @@
     "2026-07-03.md",
     "TipsForNeuralNetworks",
     "bad_ntu.png",
-    "pdfs/regression (v16).pdf",
     "Pasted image 20260703111637.png",
     "Pasted image 20260703112134.png",
     "Pasted image 20260703111746.png",
