@@ -6,3 +6,5 @@ Debt of learning
 - [ ] [[Classification]]
 - [ ] Watch http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).ecm.mp4/index.html
 - [ ] Take notes on http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).pdf
+- [ ] [Spatial Transformer](https://www.youtube.com/watch?v=SoCywZ1hZak)
+
