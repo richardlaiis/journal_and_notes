@@ -11,10 +11,14 @@
             "id": "d1a98597d5182227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RL/Reinforcement Learning (RL).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reinforcement Learning (RL)"
             }
           }
         ]
@@ -192,6 +196,8 @@
   },
   "active": "d1a98597d5182227",
   "lastOpenFiles": [
+    "Pasted image 20260708170432.png",
+    "Pasted image 20260708170214.png",
     "RL/Reinforcement Learning (RL).md",
     "Introduction to Deep Learning.md",
     "pdfs/drl_v5.pdf",
