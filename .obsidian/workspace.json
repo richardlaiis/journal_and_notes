@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL/Reinforcement Learning (RL).md",
+                "file": "2026-07-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reinforcement Learning (RL)"
+              "title": "2026-07-09"
             }
           }
         ]
@@ -196,11 +196,16 @@
   },
   "active": "d1a98597d5182227",
   "lastOpenFiles": [
+    "2026-07-02.md",
+    "2026-07-09.md",
+    "2026-07-03.md",
+    "2026-07-05.md",
+    "pdfs/drl_v5.pdf",
+    "pdfs/RL(v6).pdf",
+    "RL/Reinforcement Learning (RL).md",
     "Pasted image 20260708170432.png",
     "Pasted image 20260708170214.png",
-    "RL/Reinforcement Learning (RL).md",
     "Introduction to Deep Learning.md",
-    "pdfs/drl_v5.pdf",
     "CNN (Convolutional Neural Network).md",
     "Pasted image 20260707160720.png",
     "RL",
@@ -224,16 +229,11 @@
     "pdfs/bert_v8.pdf",
     "TipsForNeuralNetworks/Adaptive Learning Rate.md",
     "pdfs/optimizer_v4.pdf",
-    "2026-07-02.md",
-    "pdfs/overfit-v6.pdf",
     "Self-supervised Learning.md",
     "TipsForNeuralNetworks/Small gradient.md",
-    "2026-07-05.md",
-    "2026-07-03.md",
     "bad_ntu.png",
     "Pasted image 20260703111637.png",
     "Pasted image 20260703112134.png",
-    "Pasted image 20260703111746.png",
     "2026-07-01.md",
     "2026-06-28.md",
     "2026-06-29.md",
