@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2026-07-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-07-12"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "d1a98597d5182227",
   "lastOpenFiles": [
-    "Fundamentals/Classification.md",
     "README.md",
+    "2026-07-12.md",
+    "Fundamentals/Classification.md",
     "2026-07-09.md",
     "2026-07-02.md",
     "2026-07-03.md",
@@ -241,7 +242,6 @@
     "2026-06-27.md",
     "20260626.md",
     "2026-06-26.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
