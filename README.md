@@ -8,3 +8,4 @@ Debt of learning
 - [ ] Take notes on http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).pdf
 - [ ] [Spatial Transformer](https://www.youtube.com/watch?v=SoCywZ1hZak)
 - [ ] https://leetcode.com/problems/network-delay-time/description/
+- [ ] https://leetcode.com/problems/rank-transform-of-a-matrix/
