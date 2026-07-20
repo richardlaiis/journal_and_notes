@@ -11,3 +11,6 @@ Debt of learning
 	- [ ] How to implement descrease key in dijsktra algorithm?
 - [ ] https://leetcode.com/problems/rank-transform-of-a-matrix/
 - [ ] Learning [[Ensemble]] 
+- [ ] https://leetcode.com/problems/contains-duplicate-iii/description/
+- [ ] https://leetcode.com/problems/maximum-xor-after-operations/description/
+- [ ] https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/description/
