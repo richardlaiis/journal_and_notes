@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locally weighted regression.md",
+                "file": "Fundamentals/Locally weighted regression.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,10 +237,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7735bee5fab5c26b",
+  "active": "8351a494ce0df63f",
   "lastOpenFiles": [
     "Untitled.md",
-    "Locally weighted regression.md",
+    "Fundamentals/Locally weighted regression.md",
     "2026-07-21.md",
     "Auto-encoder 自編碼器.md",
     "README.md",
