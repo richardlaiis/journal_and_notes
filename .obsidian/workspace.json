@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Locally weighted regression.md",
+                "file": "自己個性上的缺陷.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locally weighted regression"
+              "title": "自己個性上的缺陷"
             }
           }
         ],
@@ -84,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -237,10 +239,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8351a494ce0df63f",
+  "active": "7735bee5fab5c26b",
   "lastOpenFiles": [
-    "Untitled.md",
     "Fundamentals/Locally weighted regression.md",
+    "自己個性上的缺陷.md",
+    "Untitled.md",
     "2026-07-21.md",
     "Auto-encoder 自編碼器.md",
     "README.md",
@@ -281,7 +284,6 @@
     "TipsForNeuralNetworks/Classification (short ver.).md",
     "pdfs/regression (v16).pdf",
     "Pasted image 20260703112608.png",
-    "Fundamentals/Logistic Regression.md",
     "Fundamentals",
     "pdfs/bert_v8.pdf",
     "pdfs/optimizer_v4.pdf",
